@@ -67,7 +67,7 @@ This state moves through all nodes and gets progressively filled.
 
 ---
 
-## ⚙️ How Build Graph Works
+##  How Build Graph Works
 
 ```python
 def build_graph():
